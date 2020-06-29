@@ -83,6 +83,9 @@ To further improve on the performance of the evaluation
 # File Structure
 README.md
 - Data
+
+In the data folder is the US census data available on Kaggle. its just a subset of the dataset used in this analysis.
+
     - adult.data
     - adult.test
     - adult.names
