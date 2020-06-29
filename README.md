@@ -82,9 +82,9 @@ To further improve on the performance of the evaluation
 
 # File Structure
 README.md
- Data/
-    adult.data
-    adult.test
-    adult.names
- Code/
-    check the attached notebook
+- Data
+    - adult.data
+    - adult.test
+    - adult.names
+- Code
+    - check the attached notebook
